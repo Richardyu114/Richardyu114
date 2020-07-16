@@ -7,7 +7,7 @@
 <br />
 <br />
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/SvGFA2WF9IP0WjmzvE/source.gif" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" />
  
  I'm a master candidate👨from China and currently working on computer vision right now. 
 
