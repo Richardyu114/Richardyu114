@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<div align="center">
+	<br>
+	<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" >
+	<br>
+    	<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
+</div>
+
 <!--
 **Richardyu114/Richardyu114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
