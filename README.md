@@ -9,7 +9,7 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/SvGFA2WF9IP0WjmzvE/giphy.gif" />
  
-### I'm a master candidate👨from China and currently working on computer vision right now. 
+### I'm a machine learning engineer👨from China and currently working on model accelerating right now. 
 
 ### Trying to work hard and stop taking too much.
 
