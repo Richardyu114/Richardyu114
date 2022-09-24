@@ -11,7 +11,7 @@
  
 ### I'm a machine learning engineer👨from China and currently working on model accelerating right now. 
 
-### Trying to work hard and stop taking too much.
+### Trying to work hard and stop talking too much.
 
 ### Hope you have fun there.🤝
  
